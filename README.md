@@ -1,7 +1,7 @@
 ## Timestampformat
 
 
-1. timeformat.py
+1. dateformat.py
 
 ```python
 #input_dates.txt
